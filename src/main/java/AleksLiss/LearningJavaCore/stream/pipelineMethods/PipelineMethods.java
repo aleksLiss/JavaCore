@@ -1,4 +1,4 @@
-package AleksLiss.LearningJavaCore.stream.pipelineOperations;
+package AleksLiss.LearningJavaCore.stream.pipelineMethods;
 
 import java.util.ArrayList;
 import java.util.Comparator;
