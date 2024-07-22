@@ -1,4 +1,4 @@
-package AleksLiss.LearningJavaCore.stream.terminalOperations;
+package AleksLiss.LearningJavaCore.stream.terminalMethods;
 
 import java.util.ArrayList;
 import java.util.HashSet;
