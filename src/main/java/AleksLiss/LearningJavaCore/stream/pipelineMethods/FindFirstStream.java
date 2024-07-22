@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FindFirstStream {
+
     public static void main(String[] args) {
         List<Integer> list = getList();
         List<Integer> emptyList = new ArrayList<>();
