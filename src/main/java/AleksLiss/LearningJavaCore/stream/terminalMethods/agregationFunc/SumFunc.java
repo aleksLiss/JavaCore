@@ -3,7 +3,6 @@ package AleksLiss.LearningJavaCore.stream.terminalMethods.agregationFunc;
 import java.util.List;
 
 public class SumFunc {
-
     public static void main(String[] args) {
         List<Person> people = List.of(
                 new Person("Joka", 23),
