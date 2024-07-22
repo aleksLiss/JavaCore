@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FlatMapStream {
+
     public static void main(String[] args) {
         List<Integer> listOne = getListOne();
         List<Integer> listTwo = getListTwo();
