@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Optional;
 
 public class MaxFunc {
+
     public static void main(String[] args) {
         List<Person> list = Arrays.asList(
                 new Person("Nina", 29),
