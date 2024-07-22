@@ -1,7 +1,6 @@
 package AleksLiss.LearningJavaCore.stream.terminalMethods.agregationFunc;
 
 import java.util.List;
-import java.util.Optional;
 
 public class SumFunc {
     public static void main(String[] args) {
